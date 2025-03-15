@@ -1,4 +1,4 @@
-#DNS Sniffer and ARP Spoofer
+##DNS Sniffer and ARP Spoofer
 
 ## Overview
 This repository contains a Python script that performs **ARP Spoofing** to intercept and manipulate network traffic, combined with a **DNS Sniffer** to capture DNS requests. This script can be useful for network analysis, security auditing, or learning purposes.
